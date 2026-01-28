@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">天氣預報</string>
+    <string name="search_city_hint">搜尋城市...</string>
+    <string name="retry">重試</string>
+    <string name="save">儲存</string>
+    <string name="forecast_max_min_format">最高溫 : %1$d° • 最低溫 : %2$d°</string>
+    <string name="forecast_weekly_title">未來 5 天的天氣預報</string>
+    <string name="forecast_temp_format">%1$d°C / %2$d°C</string>
+    <string name="back">返回</string>
+    <string name="city_not_found">找不到城市: %1$s</string>
+    <string name="hourly_forecast_title">每 3 小時</string>
+    <string name="settings">設定</string>
+    <string name="loading_data_wait">資料載入中，請稍後...</string>
+</resources>
